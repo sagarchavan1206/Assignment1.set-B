@@ -10,3 +10,9 @@ if h==s:
      print("Number is Armstrong")
 else:
     print("Number is NOT Armstrong")
+    
+    
+  o/p:- 
+Enter the no ==
+370
+Number is Armstrong
