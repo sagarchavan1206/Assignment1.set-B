@@ -1,0 +1,11 @@
+#write python Program to check number is armstrong or not
+h=int(intput("Enter the no =="))
+s=0
+while(h>0):
+    d=h%10
+    s=s+d*d*d
+    h=int(h/10)
+if h==s:
+     print("Number is Armstrong")
+else:
+    print("Number is NOT Armstrong")
