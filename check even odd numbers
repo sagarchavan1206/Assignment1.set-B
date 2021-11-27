@@ -1,0 +1,12 @@
+#write python program to check no is even or odd
+k=int(input("Enter the number=="))
+if(k%2==0):
+      print("Number is even")
+else:
+     print("Number is Odd")
+     
+     o/p:-
+ Enter the number==63
+Number is Odd
+Enter the number==66
+Number is even
