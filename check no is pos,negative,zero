@@ -1,0 +1,12 @@
+#write python program to check no is positive ,negative,zero
+n=int(input("Enter the no to check=="))
+if n>0:
+    print("Number is Positive")
+elif n==0:
+    print("Number is Zero")
+else:
+    print("Number is Negative")
+
+o/p:-
+Enter the no to check==52
+Number is Positive
