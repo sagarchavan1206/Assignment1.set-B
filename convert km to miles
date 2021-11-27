@@ -1,0 +1,14 @@
+#write python program convert kilometer into miles
+k=input("Enter kilometer==")
+k=int(k)
+m=k*0.62137
+print(k,"Kilometer equal to",m,"miles")
+
+o/p:-
+Enter kilometer==
+6
+6 Kilometer equal to 3.72822 miles
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
