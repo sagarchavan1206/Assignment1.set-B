@@ -1,0 +1,13 @@
+#write python program convert celcius to fahrenite
+c=float(input("Enter the celcius=="))
+f=c+(9/5)+32
+print("Fahrenite===",f)
+
+o/p-
+Enter the celcius==
+5.6
+Fahrenite=== 39.4
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
